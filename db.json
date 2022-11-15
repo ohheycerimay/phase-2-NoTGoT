@@ -1,0 +1,14 @@
+{
+  "singles": [
+    {
+      "id": 1,
+      "name": "Ned Stark",
+      "height": "Pre guillotine: 6'4 post guillotine: 6",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Ned_Stark-Sean_Bean.jpg",
+      "title": "Lord of Winterfell",
+      "bio":"See above",
+      "wealth": true
+    }
+  ]
+}
+

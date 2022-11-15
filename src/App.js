@@ -1,7 +1,21 @@
+import React, {useState, useEffect} from 'react';
 import logo from './logo.svg';
 import './App.css';
+import GoTContainer from './GoTContainer';
+
+
+const API = "http://localhost:8001/singles/"
 
 function App() {
+
+  const [allCharacters, setAllCharacters] = useState([])
+
+  useEffect(() => {
+    fetch(API)
+    .then(r => r.json())
+    .then(data => console.log(data))
+  }, [])
+
   return (
     <div className="App">
       <header className="App-header">
