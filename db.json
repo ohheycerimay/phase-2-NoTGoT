@@ -1,14 +1,304 @@
 {
   "singles": [
     {
-      "id": 1,
+      "id": 0,
       "name": "Ned Stark",
-      "height": "Pre guillotine: 6'4 post guillotine: 6",
-      "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Ned_Stark-Sean_Bean.jpg",
-      "title": "Lord of Winterfell",
-      "bio":"See above",
-      "wealth": true
+      "height": "1.79",
+      "image": "https://photos.characterartgallery.com/original/character-art-gallery-photo_1000000698.jpg",
+      "title": "Lord of Winterfell, Hand of the King",
+      "bio": "He's a man of honor with a good head on his shoulders.",
+      "wealth": true,
+      "gender": "lord"
+    },
+    {
+      "id": 1,
+      "name": "Daenerys Targaryen",
+      "height": "1.57",
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/daenerys-targaryen-hilary-heffron.jpg",
+      "title": "Mother of Dragons",
+      "bio": "Her children are big, but her ambitions are even bigger. Be careful not to get burned.",
+      "wealth": true,
+      "gender": "lady"
+    },
+    {
+      "id": 2,
+      "name": "Jon Snow",
+      "height": "1.73",
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/1-jon-snow-vinny-john-usuriello.jpg",
+      "title": "Prince That Was Promised",
+      "bio": "Some say he knows nothing, but anyone who meets him can tell that he is destined for greatness.",
+      "wealth": false,
+      "gender": "lord"
+    },
+    {
+      "id": 3,
+      "name": "Arya Stark",
+      "height": "1.55",
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/arya-xbalanque-br.jpg",
+      "title": "No One",
+      "bio": "You can try to hold her down but chances are, it's not her.",
+      "wealth": true,
+      "gender": "lady"
+    },
+    {
+      "id": 4,
+      "name": "Sansa Stark",
+      "height": "1.75",
+      "image": "https://i.etsystatic.com/14392680/r/il/b8bec3/3467246303/il_fullxfull.3467246303_e3ou.jpg",
+      "title": "Lady of Winterfell",
+      "bio": "She is a true lady. Just don't judge her on her exes.",
+      "wealth": true,
+      "gender": "lady"
+    },
+    {
+      "id": 5,
+      "name": "Tyrion Lannister",
+      "height": "1.35",
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/tyrion-lannister-xbalanque-br.jpg",
+      "title": "Hand of the Queen",
+      "bio": "He drinks and he knows things.",
+      "wealth": true,
+      "gender": "lord"
+    },
+    {
+      "id": 6,
+      "name": "Drogo",
+      "height": "1.93",
+      "image": "https://i.etsystatic.com/20643078/r/il/88b3b6/2244716627/il_fullxfull.2244716627_9m8q.jpg",
+      "title": "Khal",
+      "bio": "If he likes you, you'll probably get a horse. If he doesn't like you, you'll know.",
+      "wealth": false,
+      "gender": "lord"
+    },
+    {
+      "id": 7,
+      "name": "Missandei",
+      "height": "1.7",
+      "image": "https://cdna.artstation.com/p/assets/images/images/047/812/632/large/aniwonders-1fbaa9c6-6ff7-4b7c-badd-a32a9dccd22a.jpg?1648502220",
+      "title": "Queen's Personal Advisor",
+      "bio": "She is no warrior, but she can shout for help in nineteen languages.",
+      "wealth": false,
+      "gender": "lady"
+    },
+    {
+      "id": 8,
+      "name": "Joffrey Baratheon",
+      "height": "1.7",
+      "image": "https://cdna.artstation.com/p/assets/images/images/000/254/778/large/andrey-pankov-joffrey.jpg?1413565193",
+      "title": "King of the Seven Kingdoms, Protector of the Realm",
+      "bio": "He has the temper of a lion and he cannot hold his wine.",
+      "wealth": true,
+      "gender": "lord"
+    },
+    {
+      "id": 9,
+      "name": "Ygritte",
+      "height": "1.68",
+      "image": "https://cdna.artstation.com/p/assets/images/images/022/792/728/medium/paola-h-f-igrittepublicar.jpg?1576699658",
+      "title": "Lady of the Free Folk",
+      "bio": "You better treat her right because she's pretty good with a bow and arrow.",
+      "wealth": false,
+      "gender": "lady"
+    },
+    {
+      "id": 10,
+      "name": "Hodor",
+      "height": "2.08",
+      "image": "https://static01.nyt.com/images/2016/05/24/arts/hodor/hodor-videoSixteenByNineJumbo1600-v2.jpg",
+      "title": "Servant of House Stark, Holder of the Door",
+      "bio": "Hodor.",
+      "wealth": false,
+      "gender": "lord"
+    },
+    {
+      "id": 11,
+      "name": "Jaime Lannister",
+      "height": "1.88",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLegw4DH_raVUAIkg2IRrcIDl1bUWTbP3Dw&usqp=CAU",
+      "title": "The Kingslayer",
+      "bio": "The quickest way to his heart are matching 23 & Me results",
+      "wealth": true,
+      "gender": "lord"
+    },
+    {
+      "id": 12,
+      "name": "Cersei Lannister",
+      "height": "1.68",
+      "image": "https://cdn-ph-web.inkedone.com/zarory-art---cersei-lannister---digitalart------09042018043407.jpg",
+      "title": "Protector of the Realm Queen Regent",
+      "bio": "'It's me, hi. I'm the problem, it's me.'",
+      "wealth": true,
+      "gender": "lady"
+    },
+    {
+      "id": 13,
+      "name": "Catelyn Stark",
+      "height": "1.73",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5oTeLxY0-EptmpKTolqx8uXDgrKMjS8Qd9g&usqp=CAU",
+      "title": "Lady of Winterfell",
+      "bio": "Forever committed but not a fan of weddings",
+      "wealth": true,
+      "gender": "lady"
+    },
+    {
+      "id": 14,
+      "name": "Brandon Stark",
+      "height": "1.72",
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/bran-stark-xbalanque-br.jpg",
+      "title": "King of the Andals and the First Men, Lord of the Six Kingdoms, Protector of the Realm",
+      "bio": "He'll be completely useless for nine years, but after you'll realize he's a king",
+      "wealth": true,
+      "gender": "non-binary"
+    },
+    {
+      "id": 15,
+      "name": "Rob Stark",
+      "height": "1.80",
+      "image": "https://i.etsystatic.com/14392680/r/il/7c5455/1356217435/il_fullxfull.1356217435_jvq0.jpg",
+      "title": "OG King of the North",
+      "bio": "His best friends are his mom, his brother, and the guy that lives in their house as a sort of war prisoner/hostage.",
+      "wealth": true,
+      "gender": "lord"
+    },
+    {
+      "id": 16,
+      "name": "Theon Greyjoy",
+      "height": "1.75",
+      "image": "https://i.etsystatic.com/14392680/r/il/cf7327/1356226567/il_fullxfull.1356226567_2sc0.jpg",
+      "title": "Captain of Sea Bitch, temporary Lord of Winterfell",
+      "bio": "Anything goes, but not a fan of BDSM",
+      "wealth": false,
+      "gender": "non-binary"
+    },
+    {
+      "id": 17,
+      "name": "Sandor Clegane",
+      "height": "2.03",
+      "image": "https://img.cdn-pictorem.com/uploads/collection/A/AQ3UQT9GDD/900_Gunawan-Rb_Sandor%20Clegane.jpg",
+      "title": "The Hound",
+      "bio": "Huge romantic but will never light a fire in your heart.",
+      "wealth": false,
+      "gender": "lord"
+    },
+    {
+      "id": 18,
+      "name": "Petyr Baelish",
+      "height": "1.68",
+      "image": "https://64.media.tumblr.com/54f180c97a3707e7c876baed0cceb092/tumblr_mgzqexYa0h1qg15zno1_1280.png",
+      "title": "Master of Coin, Lord of the Vale",
+      "bio": "👌🏻👈🏻'Little Finger'",
+      "wealth": false,
+      "gender": "lord"
+    },
+    {
+      "id": 19,
+      "name": "Varys",
+      "height": "1.75",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/7eb43c59169909.Y3JvcCwyODM5LDIyMjIsMCw0OQ.jpg",
+      "title": "The Spider, Master of Whisperers",
+      "bio": "The messiest and pettiest Queen of them all.",
+      "wealth": false,
+      "gender": "non-binary"
+    },
+    {
+      "id": 20,
+      "name": "Sir Davos Seaworth",
+      "height": "1.85",
+      "image": "https://i.seadn.io/gae/TnDcnfvA2ye34faY8BQ1GP2DKqCqIgMg0TwuQ8qa6hiZFfMI1RFfOow4JWhpgqfgavhNlQoneFyxKDtfEd6A9J-1NGbhYGVyI-UdNw?auto=format&w=1000",
+      "title": "Master of Ships",
+      "bio": "Loves kids",
+      "wealth": false,
+      "gender": "lord"
+    },
+    {
+      "id": 21,
+      "name": "Gregor Clegane",
+      "height": "2.44",
+      "image": "https://cg0.cgsociety.org/uploads/images/medium/kveldulv-gregor-clegane-1-d3d2282f-y0gy.jpg",
+      "title": "The Mountain",
+      "bio": "I am Tinder Man holding a fish and I will provide for you.",
+      "wealth": false,
+      "gender": "non-binary"
+    },
+    {
+      "id": 22,
+      "name": "Brienne of Tarth",
+      "height": "1.9",
+      "image": "https://i.pinimg.com/originals/5b/dc/96/5bdc964f66a1bc3e68a2051ac630a476.jpg",
+      "title": "Knight of the Seven Kingdoms",
+      "bio": "Know's how to handle a longsword.",
+      "wealth": false,
+      "gender": "non-binary"
+    },
+    {
+      "id": 23,
+      "name": "Ramsay Bolton",
+      "height": "1.72",
+      "image": "https://i.pinimg.com/originals/35/39/a7/3539a78293984177c9189e2e96ce1d0d.jpg",
+      "title": "Warden of the North",
+      "bio": "Easy on the eyes, but will play games.",
+      "wealth": false,
+      "gender": "lord"
+    },
+    {
+      "id": 24,
+      "name": "Jorah Mormont",
+      "height": "1.85",
+      "image": "https://i.seadn.io/gae/NxxiCsLwadFyTWHDfDzBHZiTEQaBTD9MAnoLVFqXxsKWHzrNRsXtKkAGwiAEBnRjnWtIzDGJfz24u082_UOaRIUEhsqfikLFrzQk?auto=format&w=1000",
+      "title": "Queen's Trusted Advisor",
+      "bio": "Will always come running back.",
+      "wealth": false,
+      "gender": "lord"
+    },
+    {
+      "id": 25,
+      "name": "Margaery Tyrell",
+      "height": "1.68",
+      "image": "https://i.seadn.io/gae/Gi4qspGKIr5U-n7Rz7M0p0F6S2ej4yE4T5OBgAHT9nAGLrZZGKMS9PVc3PJfbteVrKBvA2tAjU5VsaZ9z0Gjoh_tu3TTwcOOlQkt1g?auto=format&w=1000",
+      "title": "Queen of the Seven Kingdoms",
+      "bio": "The ideal trophy wife.",
+      "wealth": true,
+      "gender": "lady"
+    },
+    {
+      "id": 26,
+      "name": "Gendry Baratheon",
+      "height": "1.9",
+      "image": "http://esq.h-cdn.co/assets/17/33/1280x960/sd-aspect-1502736535-gendry-return-game-of-thrones-interview.jpg",
+      "title": "Lord of Storm's End",
+      "bio": "Somehow more forgettable than Rickon Stark.",
+      "wealth": false,
+      "gender": "lord"
+    },
+    {
+      "id": 27,
+      "name": "Olenna Tyrell",
+      "height": "1.55",
+      "image": "https://i.seadn.io/gae/v0LBPUukbqyfaLvGL9bVRpZcjBURdSaKf8ZpF9DavpDZTO5est2NbvVv9OGI4V4qFJdNrJydRUfkhT-tcCnGoB91SuOsiVL9uY1s9Q?auto=format&w=1000",
+      "title": "Lady of High Garden",
+      "bio": "So tough, she'll outlive you.",
+      "wealth": true,
+      "gender": "lady"
+    },
+    {
+      "id": 28,
+      "name": "Ser Bronn",
+      "height": "1.83",
+      "image": "https://images8.alphacoders.com/713/thumb-1920-713995.jpg",
+      "title": "Sir Bronn of the Blackwater",
+      "bio": "Won't care about you but you won't care about it.",
+      "wealth": false,
+      "gender": "lord"
+    },
+    {
+      "id": 29,
+      "name": "Oberyn Martell",
+      "height": "1.83",
+      "image": "https://cdna.artstation.com/p/assets/images/images/000/244/554/large/andrey-pankov-red-viper.jpg?1413016933",
+      "title": "The Viper",
+      "bio": "It's all fun and games until someone loses an eye.",
+      "wealth": true,
+      "gender": "non-binary"
     }
   ]
 }
-
