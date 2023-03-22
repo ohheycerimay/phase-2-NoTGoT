@@ -9,7 +9,7 @@ import Form from "./Form";
 
 
 
-const API = "http://localhost:8001/singles/"
+const API = "http://localhost:3000/singles/"
 
 function App() {
 
